@@ -1,0 +1,6 @@
+Core references (selection):
+- W. Ross Ashby (1956). An Introduction to Cybernetics.
+- Giulio Tononi (2004–2016). Integrated Information Theory.
+- Karl Friston (2010–2021). Free-energy principle.
+- Ludwig von Bertalanffy (1968). General System Theory.
+- Kuramoto, Y. (1975). Self-entrainment of a population of coupled oscillators.
